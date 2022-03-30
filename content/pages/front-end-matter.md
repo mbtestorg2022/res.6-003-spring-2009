@@ -34,7 +34,7 @@ FILES
 **Front-End Matter**
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 5.3MB](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/front_end_emd.pdf))
+({{% resource_link "f5850d2e-5cb7-4cfb-7bbc-8e6e3066bc9c" "PDF - 5.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,29 +43,29 @@ FILES
 _Front Matter_  
 Title page, Dedication, and Preface
 
-*   Part I: Discrete Systems ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/preface_i_emd.pdf))
-*   Part II: Fields, Forces and Motion ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/preface_ii_emd.pdf))
-*   Part III: Elastic and Fluid Media ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/preface_iii_emd.pdf))
+*   Part I: Discrete Systems ({{% resource_link "8a1c3807-22bc-cb57-af64-8cc4a9fe92b7" "PDF" %}})
+*   Part II: Fields, Forces and Motion ({{% resource_link "97027540-68aa-c4ec-ffaa-5f1576c81651" "PDF" %}})
+*   Part III: Elastic and Fluid Media ({{% resource_link "3578e8c3-67e4-60f7-d5b5-75493a7e4d20" "PDF" %}})
 
-Table of contents, pp. xv-xx ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/contents_emd.pdf))  
+Table of contents, pp. xv-xx ({{% resource_link "3a598c2d-bcbb-9766-9359-a396317f0dab" "PDF" %}})  
   
 _End Matter_  
 Appendices
 
-*   Appendix A: Glossary of commonly used symbols ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/app_a_emd.pdf))
-*   Appendix B: Review of electromagnetic field theory ([PDF - 1.7MB](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/app_b_emd.pdf))
-*   Appendix C: Mathematical identities and theorems ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/app_c_emd.pdf))
-*   Appendix D: Glossary of commonly used symbols (same as Appendix A) ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/app_d_emd.pdf))
-*   Appendix E: Summary of Part I and useful theorems ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/app_e_emd.pdf))
-*   Appendix F: Glossary of commonly used symbols (same as Appendix A) ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/app_f_emd.pdf))
-*   Appendix G: Summary of Parts I and II and useful theorems ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/app_g_emd.pdf))
+*   Appendix A: Glossary of commonly used symbols ({{% resource_link "4bc415fe-77b9-a705-6eda-8c937aca7df1" "PDF" %}})
+*   Appendix B: Review of electromagnetic field theory ({{% resource_link "134ee5eb-3e76-0d95-3abb-7ee61bd77919" "PDF - 1.7MB" %}})
+*   Appendix C: Mathematical identities and theorems ({{% resource_link "847c66be-5e2e-3653-5669-5a291803ccdc" "PDF" %}})
+*   Appendix D: Glossary of commonly used symbols (same as Appendix A) ({{% resource_link "5a12f7ec-4aad-f5df-d03a-206f0ca7ef02" "PDF" %}})
+*   Appendix E: Summary of Part I and useful theorems ({{% resource_link "abc6a825-f4eb-0fd0-091a-cfccd79d5168" "PDF" %}})
+*   Appendix F: Glossary of commonly used symbols (same as Appendix A) ({{% resource_link "09633532-48f5-899c-258f-9c73ffdbb6e2" "PDF" %}})
+*   Appendix G: Summary of Parts I and II and useful theorems ({{% resource_link "2450e437-051f-303d-9d34-18d16989f89e" "PDF" %}})
 
-Index, pp. 1-15 ([PDF](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/index_emd.pdf))
+Index, pp. 1-15 ({{% resource_link "95fa4b2f-b78d-018f-8603-1a36d5d42b99" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Front matter ([PDF - 1.7MB](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/end_emd.pdf))  
+Front matter ({{% resource_link "e5093d6d-a7a9-569f-41f2-a7742973c0dd" "PDF - 1.7MB" %}})  
   
-End matter ([PDF - 3.6MB](/resources/res-6-003-electromechanical-dynamics-spring-2009/front-end-matter/end_emd.pdf))
+End matter ({{% resource_link "e5093d6d-a7a9-569f-41f2-a7742973c0dd" "PDF - 3.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
